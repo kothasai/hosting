@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOME PAGE</title>
+    <style>
+        h1 {
+            text-align: center;
+	    font-size:50px;
+	    color:black; 
+        }
+        h2{
+		 color:black;
+		 font-size:40px;
+	}
+	p{
+		color:black;
+		font-size:30px;
+	}
+	ol{
+		text-align: center;
+		color:black;
+		font-size:30px;
+	}
+	a{
+		color:BLACK;
+	}
+    </style>
+</head>
+<body>
+    <h1>RECTIFY POLLUTION USING WEB APPLICATION DEVELOPMENT</h1>     
+    <h2>Major Factors of Pollution :-</h2>
+    <ol>
+        <li><a href="Industrialemissions.html">Industrial emissions</a></li>
+	<center><img src="https://iea.imgix.net/69f767b9-6676-4345-a1ea-9dc410ae5990/GettyImages-1303511343.png?auto=compress%2Cformat&fit=min&q=80&rect=0%2C0%2C3991%2C2245&w=1220&h=686&fit=crop&fm=jpg&q=70&auto=format"height="200"width="400"></center>
+        <li><a href="Vehicleemissions.html">Vehicle emissions</a></li>
+	<center><img src="https://st1.latestly.com/wp-content/uploads/2023/04/46-1-380x214.jpg"height="200"width="400"></center>
+        <li><a href="Deforestationandlanddegradation.html">Deforestation and land degradation</a></li>
+	<center><img src="https://www.europarl.europa.eu/resources/library/images/20230418PHT80701/20230418PHT80701_original.jpg"height="200"width="400"></center>
+	<li><a href="Agriculturalpractices.html">Agricultural practices</a></li>
+	<center><img src="https://cdn.unenvironment.org/s3fs-public/2017-12/Soil-Day.jpg"height="200"width="400"alt="Image of burning of fossil fuels"title="Burning Of Fossil Fuels"></center>
+	<li><a href="Plasticpollution.html">Plastic pollution</a></li>
+	<center><img src="https://www.greenpeace.org/usa/wp-content/uploads/2018/04/GP0STR1T7_Medium_res-970xcenter-c-default.jpg"height="200"width="400"alt="Image of burning of fossil fuels"title="Burning Of Fossil Fuels"></center>
+    </ol>
+</body>
+</html>
